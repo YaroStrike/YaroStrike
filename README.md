@@ -1,4 +1,5 @@
-![Это_так...](coffee.jpg){: width="334" height="245"}
+![Это_так...](coffee.jpg)
+<img src="coffe.jpg" alt="hello" width="334" height="245">
 - 👋 Hi, I’m @YaroStrike
 - 👀 I’m interested in silence!
 - 🌱 I’m currently learning Full-time second course of informational systems & programming
