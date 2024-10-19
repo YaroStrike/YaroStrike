@@ -1,8 +1,8 @@
 ![Это_так...](coffee.jpg)
 - 👋 Hi, I’m @YaroStrike
 - 👀 I’m interested in silence!
-- 🌱 I’m currently learning Full-time second course of informational systems & programming
-- ("2ISP-6" GROUP)
+- 🌱 I’m currently learning Full-time third course of informational systems & programming
+- ("3ISP-6" GROUP) and school-21 (school 42 analogue)
 - 💞️ I’m looking to collaborate on ... IT programs for example 💀
 - 📫 How to reach me ...  ☠ 
 - 😄 Pronouns: HE/HIS
